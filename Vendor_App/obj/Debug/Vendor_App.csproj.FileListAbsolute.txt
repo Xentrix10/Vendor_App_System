@@ -1,0 +1,12 @@
+C:\Users\mb1924\source\repos\Vendor_App\Vendor_App\bin\Debug\Vendor_App.exe.config
+C:\Users\mb1924\source\repos\Vendor_App\Vendor_App\bin\Debug\Vendor_App.exe
+C:\Users\mb1924\source\repos\Vendor_App\Vendor_App\bin\Debug\Vendor_App.pdb
+C:\Users\mb1924\source\repos\Vendor_App\Vendor_App\obj\Debug\Vendor_App.csproj.AssemblyReference.cache
+C:\Users\mb1924\source\repos\Vendor_App\Vendor_App\obj\Debug\Vendor_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\mb1924\source\repos\Vendor_App\Vendor_App\obj\Debug\Vendor_App.Form1.resources
+C:\Users\mb1924\source\repos\Vendor_App\Vendor_App\obj\Debug\Vendor_App.Form2.resources
+C:\Users\mb1924\source\repos\Vendor_App\Vendor_App\obj\Debug\Vendor_App.Properties.Resources.resources
+C:\Users\mb1924\source\repos\Vendor_App\Vendor_App\obj\Debug\Vendor_App.csproj.GenerateResource.cache
+C:\Users\mb1924\source\repos\Vendor_App\Vendor_App\obj\Debug\Vendor_App.csproj.CoreCompileInputs.cache
+C:\Users\mb1924\source\repos\Vendor_App\Vendor_App\obj\Debug\Vendor_App.exe
+C:\Users\mb1924\source\repos\Vendor_App\Vendor_App\obj\Debug\Vendor_App.pdb
